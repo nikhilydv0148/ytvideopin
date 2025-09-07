@@ -1,0 +1,35 @@
+body {
+  width: 300px;
+  font-family: Arial;
+  padding: 10px;
+  background: #fefefe;
+}
+
+h2 {
+  text-align: center;
+  color: #ff5722;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: #0d47a1;
+}
+
+button {
+  float: right;
+  background: none;
+  border: none;
+  color: red;
+  font-size: 16px;
+  cursor: pointer;
+}
