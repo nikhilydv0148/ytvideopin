@@ -3,7 +3,7 @@
   "name": "YouTube Study Pinner",
   "version": "1.0",
   "description": "Pin YouTube moments to revise later.",
-  "permissions": ["storage", "activeTab"],
+  "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": "icon.png"
